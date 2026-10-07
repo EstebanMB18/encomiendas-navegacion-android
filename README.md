@@ -91,29 +91,3 @@ activity_category.xml
 activity_detail.xml
 ```
 
-## Cómo ejecutar
-
-1. Abrir la carpeta `EncomiendasNavegacion` en Android Studio.
-2. Esperar a que Gradle sincronice.
-3. Seleccionar un emulador o dispositivo.
-4. Ejecutar `app`.
-5. Navegar:
-
-```text
-Inicio → Categoría → Detalle
-```
-
-## Entrega
-
-Subir el proyecto a GitHub y entregar en Moodle la URL del repositorio.
-
-Comandos sugeridos:
-
-```bash
-git init
-git add .
-git commit -m "Laboratorio navegabilidad Android con ListView y adapters"
-git branch -M main
-git remote add origin https://github.com/TU_USUARIO/encomiendas-navegacion-android.git
-git push -u origin main
-```
