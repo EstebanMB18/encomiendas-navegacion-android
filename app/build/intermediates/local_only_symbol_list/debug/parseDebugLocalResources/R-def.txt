@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+array main_options
+color accent
+color primary
+color primary_dark
+color surface
+color text_primary
+color white
+id listCategory
+id listOptions
+id tvCategoryTitle
+id tvDetailContent
+id tvDetailTitle
+layout activity_category
+layout activity_detail
+layout activity_top_level
+string app_name
+style AppTheme

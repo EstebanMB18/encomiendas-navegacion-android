@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encomiendas Navegación</string>
+
+    <string-array name="main_options">
+        <item>Encomiendas</item>
+        <item>Remitentes</item>
+        <item>Destinatarios</item>
+    </string-array>
+</resources>

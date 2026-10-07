@@ -1,0 +1,7 @@
+co.edu.unipiloto.encomiendasnav.app-pngs-0 C:\Dev\EncomiendasNavegacion\app\build\generated\res\pngs\debug
+co.edu.unipiloto.encomiendasnav.app-resValues-1 C:\Dev\EncomiendasNavegacion\app\build\generated\res\resValues\debug
+co.edu.unipiloto.encomiendasnav.app-packageDebugResources-2 C:\Dev\EncomiendasNavegacion\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+co.edu.unipiloto.encomiendasnav.app-packageDebugResources-3 C:\Dev\EncomiendasNavegacion\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+co.edu.unipiloto.encomiendasnav.app-debug-4 C:\Dev\EncomiendasNavegacion\app\build\intermediates\merged_res\debug\mergeDebugResources
+co.edu.unipiloto.encomiendasnav.app-debug-5 C:\Dev\EncomiendasNavegacion\app\src\debug\res
+co.edu.unipiloto.encomiendasnav.app-main-6 C:\Dev\EncomiendasNavegacion\app\src\main\res

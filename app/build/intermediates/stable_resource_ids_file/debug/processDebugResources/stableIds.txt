@@ -1,0 +1,17 @@
+co.edu.unipiloto.encomiendasnav:layout/activity_top_level = 0x7f040002
+co.edu.unipiloto.encomiendasnav:layout/activity_detail = 0x7f040001
+co.edu.unipiloto.encomiendasnav:id/tvDetailTitle = 0x7f030004
+co.edu.unipiloto.encomiendasnav:layout/activity_category = 0x7f040000
+co.edu.unipiloto.encomiendasnav:id/tvDetailContent = 0x7f030003
+co.edu.unipiloto.encomiendasnav:id/tvCategoryTitle = 0x7f030002
+co.edu.unipiloto.encomiendasnav:id/listOptions = 0x7f030001
+co.edu.unipiloto.encomiendasnav:string/app_name = 0x7f050000
+co.edu.unipiloto.encomiendasnav:id/listCategory = 0x7f030000
+co.edu.unipiloto.encomiendasnav:array/main_options = 0x7f010000
+co.edu.unipiloto.encomiendasnav:color/text_primary = 0x7f020004
+co.edu.unipiloto.encomiendasnav:color/white = 0x7f020005
+co.edu.unipiloto.encomiendasnav:color/surface = 0x7f020003
+co.edu.unipiloto.encomiendasnav:color/primary = 0x7f020001
+co.edu.unipiloto.encomiendasnav:style/AppTheme = 0x7f060000
+co.edu.unipiloto.encomiendasnav:color/accent = 0x7f020000
+co.edu.unipiloto.encomiendasnav:color/primary_dark = 0x7f020002
